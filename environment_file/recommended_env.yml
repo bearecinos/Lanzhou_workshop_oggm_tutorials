@@ -1,0 +1,33 @@
+name: oggm_env_lanzhou
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - shapely
+  - matplotlib
+  - Pillow
+  - netcdf4
+  - scikit-image
+  - configobj
+  - xarray
+  - pytest
+  - dask
+  - bottleneck
+  - pyproj
+  - cartopy
+  - geopandas
+  - rasterio
+  - rioxarray
+  - seaborn
+  - pytables
+  - salem
+  - motionless
+  - pip
+  - pip:
+    - joblib
+    - progressbar2
+    - pytest-mpl-oggm
+    - oggm
