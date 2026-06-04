@@ -7,5 +7,5 @@ In these practicals, I demonstrate how I installed OGGM and how I use it in my o
 
 Now, I've written a [Wiki]() for this workshop. 
 
-If you are beginner user: [Click here]().
-If you are an advance user: [Click here](). 
+If you are beginner user: [Click here](https://github.com/bearecinos/Lanzhou_workshop_oggm_tutorials/tree/main/beginners).
+If you are an advance user: [Click here](https://github.com/bearecinos/Lanzhou_workshop_oggm_tutorials/tree/main/advance). 
