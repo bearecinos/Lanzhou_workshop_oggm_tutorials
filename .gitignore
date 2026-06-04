@@ -1,3 +1,7 @@
 classroom_instructions
 .idea
 .ipynb_checkpoints
+advance/Advance_workflow_with_custom_inputs_but_same_baseline_climate.ipynb
+advance/back_up.ipynb
+data/climate_historical_fsm.nc
+advance/__pycache__
