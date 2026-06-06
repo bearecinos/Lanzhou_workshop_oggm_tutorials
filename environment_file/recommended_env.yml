@@ -25,6 +25,9 @@ dependencies:
   - pytables
   - salem
   - motionless
+  - jupyterlab
+  - notebook
+  - ipykernel
   - pip
   - pip:
     - joblib
