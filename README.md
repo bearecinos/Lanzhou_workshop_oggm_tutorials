@@ -5,7 +5,6 @@ For details on how to install OGGM in general, please refer to the official mode
 
 In these practicals, I demonstrate how I installed OGGM and how I use it in my own research. This reflects my personal workflow, and I may make mistakes. Please always consult the official OGGM documentation if you are unsure, if something does not work as expected, or if you need the most up-to-date guidance.
 
-Now, I've written a [Wiki]() for this workshop. 
+Now, I've written a [Wiki](https://github.com/bearecinos/Lanzhou_workshop_oggm_tutorials/wiki) for this workshop. 
 
-If you are beginner user: [Click here](https://github.com/bearecinos/Lanzhou_workshop_oggm_tutorials/tree/main/beginners).
-If you are an advance user: [Click here](https://github.com/bearecinos/Lanzhou_workshop_oggm_tutorials/tree/main/advance). 
+Please follow the instructions on the Home page to install this repository and oggm.
